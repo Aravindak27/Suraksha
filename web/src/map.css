@@ -1,0 +1,9 @@
+/* Basic Map Overrides if needed */
+.leaflet-container {
+    height: 100%;
+    width: 100%;
+}
+
+.map-modal h3 {
+    margin: 0;
+}
